@@ -56,4 +56,5 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 ### Steps taken
 * Optimized pizzeria.jpg Original score 71/100 (mobile) and 29/100 (desktop)
-* Asynced google-analytics and mediad print.css
+* Asynced google-analytics and mediad print.css mobile 64/ desktop 89
+* Minified perfmatters.js and optimized profilepic
